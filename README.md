@@ -1,4 +1,4 @@
-# Guilherme Petrucelli Domingoshttps:/README.md
+# Guilherme Petrucelli Domingoshttps:
 > Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
