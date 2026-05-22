@@ -37,7 +37,6 @@ Atualmente sou estudante no curso de **Análise e Desenvolvimento de Sistemas**.
 | :--- | :--- | :---: |
 | **Projeto-Engenharia de contexto e logica fisica** |Sistema desenvolvido para a disciplina de Análise e Desenvolvimento de Sistemas, que traduz cenários reais complexos em algoritmos computacionais.| [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-Engenharia-de-contexto-e-logica-fisica) |
 | **projeto desenhando emojis com dados** | Sistema de vendas com cálculo automatizado de troco e saldos | [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-desenhando-emojis-com-dados) |
-
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **projeto modularização** | Sistema Python que automatiza o ciclo completo de vendas e logística: desde a gestão de estoque e validação de pagamentos até o cálculo de troco otimizado e roteirização de entregas. |     [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-modulariza%C3%A7%C3%A3o) |
