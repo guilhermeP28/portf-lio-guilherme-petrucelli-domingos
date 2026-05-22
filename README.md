@@ -1,4 +1,4 @@
-# Guilherme Petrucelli Domingoshttps://github.com/guilhermeP28/portfo-lio-guilherme-petrucelli-domingos/blob/main/README.md
+# Guilherme Petrucelli Domingoshttps:/README.md
 > Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
