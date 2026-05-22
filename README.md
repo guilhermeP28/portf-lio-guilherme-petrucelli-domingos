@@ -13,10 +13,10 @@
 ---
 
 ### 👨‍💻 Sobre
-Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. Possuo uma base sólida em gestão de estoque e logística, vinda da minha experiência profissional como almoxarife, e agora aplico esse conhecimento no desenvolvimento de soluções tecnológicas e automação de processos.
+Atualmente sou estudante no curso de **Análise e Desenvolvimento de Sistemas**. Possuo uma base sólida em gestão de estoque e logística, vinda da minha experiência profissional como almoxarife, e agora aplico esse conhecimento no desenvolvimento de soluções tecnológicas e automação de processos.
 
 * **Foco Atual:** Desenvolvimento Backend com Python e Lógica de Programação aplicada a cenários reais.
-* **Habilidades Técnicas:** Python 3.10, Lógica Condicional Aninhada, Tratamento de Dados (Outliers e Normalização) e Modelagem de Fluxogramas.
+* **Habilidades Técnicas:** Python, Lógica Condicional Aninhada, Tratamento de Dados (Outliers e Normalização) e Modelagem de Fluxogramas.
 * **Diferencial:** Experiência prática em conferência de NF's e organização de materiais, o que me permite criar softwares de logística que realmente atendem às necessidades do setor.
 
 ---
